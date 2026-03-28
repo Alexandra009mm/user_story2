@@ -11,5 +11,6 @@ The program displays a main menu where the user can choose different options. Th
 The user can also view all registered products in an organized format. In addition, the program provides a statistics menu where the user can calculate the total value of the inventory and the total number of products.
 
 ## Author
+<img width="1648" height="1019" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/13c25661-d13a-479b-a539-0b9b97ccfccf" />
 
 Alexandra Peña
