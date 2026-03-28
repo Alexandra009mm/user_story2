@@ -11,7 +11,7 @@ def add_product():
     while keep_register == "yes":
         print("------")
 
-        # VALIDACIÓN NOMBRE
+        #name validation
         valid_name = "no"
         while valid_name == "no":
             product_name = input("Enter the product name: ").lower()
@@ -22,7 +22,7 @@ def add_product():
 
         print("------")
 
-        # VALIDACIÓN PRECIO
+        # price validation
         valid_price = "no"
         while valid_price == "no":
             try:
@@ -36,7 +36,7 @@ def add_product():
 
         print("------")
 
-        # VALIDACIÓN CANTIDAD
+        # quantity validation
         valid_quantity = "no"
         while valid_quantity == "no":
             try:
